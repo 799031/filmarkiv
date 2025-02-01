@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import no.hvl.data102.filmarkiv.impl.Film;
 import no.hvl.data102.filmarkiv.impl.Sjanger;
 
-class TestFilm {
+public class TestFilm {
 	
 	public static final int filmNr = 0;
 	public static final String produsent = "produsent";
